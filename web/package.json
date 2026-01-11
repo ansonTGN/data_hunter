@@ -1,0 +1,9 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "build": "vite build" },
+  "dependencies": { "lucide-react": "latest", "react": "latest", "react-dom": "latest" },
+  "devDependencies": { "vite": "latest", "@vitejs/plugin-react": "latest", "tailwindcss": "latest", "autoprefixer": "latest", "postcss": "latest" }
+}
